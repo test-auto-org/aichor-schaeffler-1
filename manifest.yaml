@@ -26,7 +26,7 @@ spec:
         ramRatio: 6
         accelerators: # optional
           gpu:
-            count: 1
+            count: 0
             product: H100
             type: gpu
 
