@@ -26,7 +26,7 @@ spec:
         ramRatio: 6
         accelerators: # optional
           gpu:
-            count: 0
+            count: 1
             product: A100
             type: gpu
 
