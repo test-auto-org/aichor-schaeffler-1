@@ -23,7 +23,7 @@ spec:
     Head:
       resources:
         cpus: 6
-        ramRatio: 6
+        ramRatio: 2
         accelerators: # optional
           gpu:
             count: 1
