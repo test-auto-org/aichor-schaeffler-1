@@ -27,7 +27,7 @@ spec:
         accelerators: # optional
           gpu:
             count: 1
-            product: m60
+            product: M60
             type: gpu
 
     Workers:
