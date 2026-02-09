@@ -11,7 +11,7 @@ builder:
 spec:
   operator: kuberay
   image: raytune-pong
-  command: "python main.py"
+  command: "python main.py" 
 
   debug:
     jupyter: false
